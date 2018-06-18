@@ -33,7 +33,6 @@ if(!defined('EMLOG_ROOT')) {exit('error!');}
 <script src="<?php echo TEMPLATE_URL; ?>js/jquery-migrate.min.js" type="text/javascript"></script>
 <script>var ajaxhome='<?php echo BLOG_URL; ?>';prettyPrint();</script>
 <script src="<?php echo TEMPLATE_URL; ?>js/player.js?v1.56x" type="text/javascript"></script>
-<div style="display:none;"><script src="https://s22.cnzz.com/z_stat.php?id=1273974061&web_id=1273974061" language="JavaScript"></script></div>
 <?php doAction('index_footer'); ?>
 </body>
 </html>
