@@ -4,7 +4,10 @@
 
 扁平化清新设计，简约而不简单，打倒一切**华而不实**的非主流模板
 
-直链下载模板文件：<https://img.yoniu.xyz/ting.zip>（1.0版本）
+直链下载模板文件：
+
+* <https://img.yoniu.xyz/ting1.5x.zip>（1.5x版本）
+* <https://img.yoniu.xyz/ting.zip>（1.0版本）
 
 # 主题特性
 
