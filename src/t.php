@@ -5,7 +5,7 @@
 if(!defined('EMLOG_ROOT')) {exit('error!');} 
 ?>
 <div id="contentleft">
-<div id="hitokoto" class="mdui-m-y-2 mdui-m-x-1 mdui-text-center">
+<div id="hitokoto" class="mdui-p-y-2 mdui-p-x-2 mdui-text-center">
 </div>
     <?php 
     foreach($tws as $val):
@@ -30,7 +30,7 @@ if(!defined('EMLOG_ROOT')) {exit('error!');}
 		</div>
 	</div>
     <?php endforeach;?>
-<div id="pagenavi" class="mdui-text-center mdui-m-y-2 mdui-clearfix">
+<div id="pagenavi" class="mdui-text-center mdui-p-y-2 mdui-clearfix">
 <?php $page_t =  my_page($twnum, Option::get('index_twnum'), $page, BLOG_URL.'t/?page='); echo $page_t; ?>
 </div>
 </div><!--end #contentleft-->

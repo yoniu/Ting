@@ -5,7 +5,7 @@
 if(!defined('EMLOG_ROOT')) {exit('error!');} 
 ?>
 <div id="contentleft">
-<div id="hitokoto" class="mdui-p-y-2 mdui-m-x-1 mdui-text-center">
+<div id="hitokoto" class="mdui-p-y-2 mdui-p-x-2 mdui-text-center">
 </div>
 	<div class="article">
 		<h2 class="mdui-text-center">
